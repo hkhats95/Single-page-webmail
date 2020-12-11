@@ -1,0 +1,16 @@
+textarea {
+    min-height: 400px;
+}
+
+.row {
+	border-style: solid;
+	border-width: 1px;
+}
+
+#compose-view-error {
+	color: red;
+}
+
+#email-error {
+	color: red;
+}
